@@ -14,12 +14,12 @@ https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/versions/
 3rd: restart Firefox; Goto Addons and Click Extensions in Left Menu.. then Click on more link of Imacros for firefox...
 Scroll down and turn off updates,
 
-4th: Copy textnowReCaptcha.js to following directory
+4th: Copy <b>textnowReCaptcha.js</b> to following directory
   C:\Users\Your User Name\Documents\iMacros\Macros directory for Windows PC
 and 
   Home > iMacros > Macros directory for MAC PC
 
-5th: Copy exampletextnow.csv to following directory, and open exampletextnow.csv add your Data..
+5th: Copy <b>exampletextnow.csv</b> to following directory, and open <b>exampletextnow.csv</b> add your Data..
   C:\Users\UserName\Documents\iMacros\Datasources\  for Windows PC
 and 
   Home > iMacros > Datasources directory for MAC PC	
@@ -29,6 +29,6 @@ and
 
 7th: Set value for How many accounts data do you have in exampletextnow.csv?
 
-8th: Recently Created phone numbers will be saved in myPhoneNumbers.csv in Downloads folder
+8th: Recently Created phone numbers will be saved in </b>myPhoneNumbers.csv</b> in Downloads folder
   C:\Users\UserName\Documents\iMacros\Downloads for Windows or
   Home > iMacros > Downloads for Mac
